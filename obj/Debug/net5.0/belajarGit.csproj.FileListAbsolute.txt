@@ -1,0 +1,16 @@
+D:\Project C#\belajarGit\bin\Debug\net5.0\belajarGit.exe
+D:\Project C#\belajarGit\bin\Debug\net5.0\belajarGit.deps.json
+D:\Project C#\belajarGit\bin\Debug\net5.0\belajarGit.runtimeconfig.json
+D:\Project C#\belajarGit\bin\Debug\net5.0\belajarGit.runtimeconfig.dev.json
+D:\Project C#\belajarGit\bin\Debug\net5.0\belajarGit.dll
+D:\Project C#\belajarGit\bin\Debug\net5.0\ref\belajarGit.dll
+D:\Project C#\belajarGit\bin\Debug\net5.0\belajarGit.pdb
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.csprojAssemblyReference.cache
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.AssemblyInfoInputs.cache
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.AssemblyInfo.cs
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.csproj.CoreCompileInputs.cache
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.dll
+D:\Project C#\belajarGit\obj\Debug\net5.0\ref\belajarGit.dll
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.pdb
+D:\Project C#\belajarGit\obj\Debug\net5.0\belajarGit.genruntimeconfig.cache
